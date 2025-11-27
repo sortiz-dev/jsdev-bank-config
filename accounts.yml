@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to JSDEV accounts related local APIs"
+  contactDetails:
+    name: "Sebastian Ortiz"
+    email: "jsdev@gmail.com"
+  onCallSupport:
+    - (+57) 304-211-7694
+    - (+57) 312-211-7694

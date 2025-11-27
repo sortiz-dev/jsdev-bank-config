@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to JSDEV accounts related prod APIs"
+  contactDetails:
+    name: "Sebastian Ortiz Prod"
+    email: "jsdev@gmail.com"
+  onCallSupport:
+    - (+57) 304-211-3333
+    - (+57) 312-211-4444

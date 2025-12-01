@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to JSDEV accounts related QA APIs HOT MODIFIED"
+  message: "Welcome to JSDEV accounts related QA APIs"
   contactDetails:
     name: "Sebastian Ortiz QA"
     email: "jsdev@gmail.com"
